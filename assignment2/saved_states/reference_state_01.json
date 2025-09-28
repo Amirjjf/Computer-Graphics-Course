@@ -1,0 +1,45 @@
+{
+    "camera": {
+        "center": [
+            3.153468608856201,
+            0.04671347141265869,
+            0.0
+        ],
+        "rotation": [
+            [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                1.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0,
+                1.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "zoom_distance": 2.8098766803741455
+    },
+    "crude_boundaries": false,
+    "draw_frames": false,
+    "filename": "assets/curves/core.json",
+    "mode": 0,
+    "reference_image": "saved_states/reference_state_01.png",
+    "show_surface": false,
+    "spline_tessellation": 8,
+    "subdivision": 0,
+    "wireframe": false
+}

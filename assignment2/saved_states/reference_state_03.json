@@ -1,0 +1,45 @@
+{
+    "camera": {
+        "center": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rotation": [
+            [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                1.0,
+                0.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0,
+                1.0,
+                0.0
+            ],
+            [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "zoom_distance": 10.0
+    },
+    "crude_boundaries": false,
+    "draw_frames": false,
+    "filename": "assets/meshes/icosahedron.obj",
+    "mode": 1,
+    "reference_image": "saved_states/reference_state_03.png",
+    "show_surface": false,
+    "spline_tessellation": 8,
+    "subdivision": 3,
+    "wireframe": false
+}

@@ -1,0 +1,60 @@
+{
+    "camera_distance": 2.0999999046325684,
+    "camera_rotation_angle": 7.251119613647461,
+    "camera_target": [
+        [
+            0.0
+        ],
+        [
+            0.0
+        ],
+        [
+            0.0
+        ]
+    ],
+    "fovx_degrees": 88.62699890136719,
+    "is_rotating": false,
+    "model_rotation_angle_y": 6.4402666091918945,
+    "model_scale": [
+        [
+            0.9999999403953552
+        ],
+        [
+            1.0
+        ],
+        [
+            1.0
+        ]
+    ],
+    "model_translation": [
+        [
+            0.0
+        ],
+        [
+            0.0
+        ],
+        [
+            0.0
+        ]
+    ],
+    "scene_mode": "ply(assets/meshes/shoe.ply)",
+    "shading_toggle": true,
+    "trackball_current_rotation": [
+        [
+            1.0,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            1.0,
+            0.0
+        ],
+        [
+            0.0,
+            0.0,
+            1.0
+        ]
+    ],
+    "trackball_toggle": false
+}

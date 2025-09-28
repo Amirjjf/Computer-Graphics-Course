@@ -1,0 +1,37 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build assignment2",
+			"type": "shell",
+			"command": "cmake",
+			"args": [
+				"--build",
+				"f:/Aalto/Computer Graphics/cs-c3100-2025/assignment2/build",
+				"--config",
+				"Debug"
+			],
+			"isBackground": false,
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Rebuild assignment2",
+			"type": "shell",
+			"command": "cmake",
+			"args": [
+				"--build",
+				"f:/Aalto/Computer Graphics/cs-c3100-2025/assignment2/build",
+				"--config",
+				"Debug"
+			],
+			"isBackground": false,
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build"
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{
+    "camera": {
+        "center": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rotation": [
+            [
+                0.9122543334960938,
+                -0.18838968873023987,
+                0.3637324273586273,
+                0.0
+            ],
+            [
+                -0.12577012181282043,
+                0.7162562012672424,
+                0.6864101886749268,
+                0.0
+            ],
+            [
+                -0.38983824849128723,
+                -0.6719273328781128,
+                0.6297140717506409,
+                0.0
+            ],
+            [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "zoom_distance": 10.0
+    },
+    "crude_boundaries": false,
+    "draw_frames": false,
+    "filename": "assets/meshes/patch.obj",
+    "mode": 3,
+    "reference_image": "saved_states/reference_state_06.png",
+    "show_surface": false,
+    "spline_tessellation": 8,
+    "subdivision": 3,
+    "wireframe": false
+}

@@ -1,0 +1,44 @@
+{
+    "camera": {
+        "center": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rotation": [
+            [
+                0.5562590956687927,
+                0.8288360238075256,
+                0.06005182862281799,
+                0.0
+            ],
+            [
+                -0.6241669058799744,
+                0.3690032958984375,
+                0.6886597871780396,
+                0.0
+            ],
+            [
+                0.5486268401145935,
+                -0.4205557107925415,
+                0.7225935459136963,
+                0.0
+            ],
+            [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "zoom_distance": 4.290009021759033
+    },
+    "crude_boundaries": false,
+    "draw_frames": false,
+    "filename": "assets/curves/extra/gcyl/weirder.json",
+    "mode": 0,
+    "show_surface": true,
+    "spline_tessellation": 8,
+    "subdivision": 0,
+    "wireframe": false
+}

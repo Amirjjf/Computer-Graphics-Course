@@ -1,0 +1,36 @@
+{
+    "camera_rotation_angle": 0.0,
+    "is_rotating": false,
+    "model_translation": [
+        [
+            0.0
+        ],
+        [
+            0.0
+        ],
+        [
+            0.0
+        ]
+    ],
+    "reference_image": "saved_states/reference_state_03.png",
+    "scene_mode": "tetrahedron",
+    "shading_toggle": false,
+    "trackball_current_rotation": [
+        [
+            1.0,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            1.0,
+            0.0
+        ],
+        [
+            0.0,
+            0.0,
+            1.0
+        ]
+    ],
+    "trackball_toggle": false
+}

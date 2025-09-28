@@ -1,0 +1,35 @@
+{
+    "camera_rotation_angle": -4.084071636199951,
+    "is_rotating": false,
+    "model_translation": [
+        [
+            0.0
+        ],
+        [
+            0.0
+        ],
+        [
+            0.0
+        ]
+    ],
+    "scene_mode": "triangle",
+    "shading_toggle": false,
+    "trackball_current_rotation": [
+        [
+            1.0,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            1.0,
+            0.0
+        ],
+        [
+            0.0,
+            0.0,
+            1.0
+        ]
+    ],
+    "trackball_toggle": false
+}

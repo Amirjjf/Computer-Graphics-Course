@@ -1,0 +1,44 @@
+{
+    "camera": {
+        "center": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "rotation": [
+            [
+                0.8031243085861206,
+                0.07773520052433014,
+                -0.5907187461853027,
+                0.0
+            ],
+            [
+                -0.23833277821540833,
+                0.9505898952484131,
+                -0.19893822073936462,
+                0.0
+            ],
+            [
+                0.5460665225982666,
+                0.30055972933769226,
+                0.7819687128067017,
+                0.0
+            ],
+            [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ]
+        ],
+        "zoom_distance": 10.0
+    },
+    "crude_boundaries": false,
+    "draw_frames": false,
+    "filename": "assets/meshes/icosahedron.obj",
+    "mode": 3,
+    "show_surface": false,
+    "spline_tessellation": 6,
+    "subdivision": 3,
+    "wireframe": false
+}
